@@ -1,0 +1,13 @@
+# API keys — never commit real keys
+API_Keychain.config
+path.config
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/

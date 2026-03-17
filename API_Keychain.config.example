@@ -1,0 +1,15 @@
+# ===========================================
+# EasyGemini — API Key Configuration
+# ===========================================
+# 1. Copy this file and rename to: API_Keychain.config
+# 2. Replace the placeholder keys below with your real Gemini API keys.
+# 3. Add as many keys as you want — more keys = higher throughput.
+#
+# Get your free API key at: https://aistudio.google.com/apikey
+# ===========================================
+
+[API_KEY]
+Gemini_API_KEYS = [
+                    "YOUR_API_KEY_1", 
+                    "YOUR_API_KEY_2", 
+                    "YOUR_API_KEY_3"]
