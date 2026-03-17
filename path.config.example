@@ -1,0 +1,13 @@
+# ===========================================
+# EasyGemini — Custom Key Path (Optional)
+# ===========================================
+# Use this file ONLY if you want to store your API_Keychain.config
+# in a different location. Otherwise, you can skip this file entirely —
+# EasyGemini will look for API_Keychain.config in the project root by default.
+#
+# 1. Copy this file and rename to: path.config
+# 2. Update the path below to point to your API key config file.
+# ===========================================
+
+[Path]
+API_key_chain_config = path/to/your/API_Keychain.config
