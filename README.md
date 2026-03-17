@@ -124,7 +124,3 @@ for key in show_key_state():
 ```
 
 Output shows each key's index, active requests, daily usage, disabled status, and cooldown timer.
-
-## License
-
-MIT
